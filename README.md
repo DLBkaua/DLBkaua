@@ -1,4 +1,2 @@
-- 👋 olá eu sou o @DLBkaua
-- 👀 meu email de contato é kaua.sarnetzki@escola.pr.gov.br 
-- 🌱 eu estou interessado em aprender a programar novas linguas
-- 💞️ eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
+# Aulas-de-Programacao-II
+Este repositório será utilIzado como guia nas aulas de Programação II.
